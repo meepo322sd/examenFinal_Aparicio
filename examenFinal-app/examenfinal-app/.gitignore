@@ -1,0 +1,7 @@
+# ==== Node / React ====
+node_modules/
+build/
+dist/
+.env
+# CRA artifacts
+*.log

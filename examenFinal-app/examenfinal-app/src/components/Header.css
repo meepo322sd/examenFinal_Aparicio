@@ -1,0 +1,15 @@
+/* Degradado y algo de espacio */
+.main-header {
+  background: linear-gradient(#444 0%, #999 100%);
+  padding: 8px 16px;
+}
+
+/* Opcional: links en gris oscuro y sin subrayado */
+.main-header a {
+  color: #222;
+  text-decoration: none;
+}
+
+.main-header a:hover {
+  text-decoration: underline;
+}
